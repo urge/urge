@@ -11,7 +11,7 @@
   <a href="https://github.com/urge?tab=followers"><img src="https://img.shields.io/github/followers/urge?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="followers"/></a>
 </p>
 
-**📍 Urge, Estonia 🇪🇪 | 🤖 Automating the Future, One Workflow at a Time**
+**📍 Zurich, Switzerland  | 🤖 Automating the Future, One Workflow at a Time**
 
 </div>
 
