@@ -507,7 +507,7 @@ Continuous optimization and refinement mindset
 
 <br/>
 
-<a href="mailto:urge.github@proton.me">
+<a href="mailto:hysawork@gmail.com">
   <img src="https://img.shields.io/badge/Email-urge.github%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/urge">
