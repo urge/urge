@@ -31,7 +31,7 @@
 
 ```typescript
 const urge = {
-  location: "Urge, Estonia 🇪🇪",
+  location: "Zurich, Switzerland",
   role: "n8n Automation Architect",
   company: "@urge",
   tagline: "Building workflows that work while you sleep 😴",
@@ -513,8 +513,8 @@ Continuous optimization and refinement mindset
 <a href="https://github.com/urge">
   <img src="https://img.shields.io/badge/GitHub-urge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://en.wikipedia.org/wiki/Estonia">
-  <img src="https://img.shields.io/badge/Location-Urge%2C%20Estonia%20🇪🇪-4169E1?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+<a href="https://en.wikipedia.org/wiki/urich">
+  <img src="" alt="Location"/>
 </a>
 
 <br/><br/>
