@@ -5,10 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EA4AFF&center=true&vCenter=true&multiline=false&width=700&height=100&lines=n8n+Automation+Expert+%F0%9F%A4%96;Workflow+Architect+%F0%9F%9A%80;Integration+Specialist+%F0%9F%94%97;API+Integration+Master+%E2%9A%A1;Building+Workflows+That+Work+24%2F7" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/urge"><img src="https://img.shields.io/badge/GitHub-urge-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="mailto:hysawork@gmail.com"><img src="https://img.shields.io/badge/Email-hysawork%40gmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/urge"><img src="https://img.shields.io/badge/GitHub-urge-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="mailto:hysawork@gmail.com"><img src="https://img.shields.io/badge/Email-hysawork%40gmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   <img src="https://komarev.com/ghpvc/?username=urge&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  <a href="https://github.com/urge?tab=followers"><img src="https://img.shields.io/github/followers/urge?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="followers"/></a>
+  <a href="https://github.com/urge?tab=followers"><img src="https://img.shields.io/github/followers/urge?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="followers"/>
 </p>
 
 **📍 Zurich, Switzerland  | 🤖 Automating the Future, One Workflow at a Time**
@@ -509,13 +509,13 @@ Continuous optimization and refinement mindset
 
 <a href="mailto:hysawork@gmail.com">
   <img src="https://img.shields.io/badge/Email-urge.github%40gmail.com-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+
 <a href="https://github.com/urge">
   <img src="https://img.shields.io/badge/GitHub-urge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/urich">
-  <img src="" alt="Location"/>
-</a>
+
+
+  🇨🇭 Zurich, Switzerland
+
 
 <br/><br/>
 
@@ -525,10 +525,10 @@ If you find my automation workflows and tools helpful, consider supporting my wo
 
 <a href="https://github.com/sponsors/urge">
   <img src="https://img.shields.io/badge/Sponsor-❤️-ea4aff?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor"/>
-</a>
+
 <a href="https://www.buymeacoffee.com/urge">
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
+
 
 <br/><br/>
 
