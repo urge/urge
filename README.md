@@ -442,12 +442,12 @@ mindmap
 
 | Skill | Proficiency | Experience | Projects |
 |:------|:----------:|:----------:|:--------:|
-| **n8n Workflow Development** | ![95%](https://progress-bar.dev/95?color=ea4aff) | 2+ years | 50+ |
-| **API Integration** | ![90%](https://progress-bar.dev/90?color=ea4aff) | 3+ years | 75+ |
-| **JavaScript/TypeScript** | ![85%](https://progress-bar.dev/85?color=ea4aff) | 4+ years | 100+ |
-| **Database Management** | ![80%](https://progress-bar.dev/80?color=ea4aff) | 2+ years | 30+ |
-| **Docker & DevOps** | ![75%](https://progress-bar.dev/75?color=ea4aff) | 1+ year | 20+ |
-| **Python Automation** | ![70%](https://progress-bar.dev/70?color=ea4aff) | 1+ year | 15+ |
+| **n8n Workflow Development** | 🎯 95% | 2+ years | 50+ |
+| **API Integration** | 🎯 90% | 3+ years | 75+ |
+| **JavaScript/TypeScript** | 🎯 85% | 4+ years | 100+ |
+| **Database Management** | 🎯 80% | 2+ years | 30+ |
+| **Docker & DevOps** | 🎯 75% | 1+ year | 20+ |
+| **Python Automation** | 🎯 70% | 1+ year | 15+ |
 
 </div>
 
