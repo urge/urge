@@ -514,7 +514,7 @@ Continuous optimization and refinement mindset
   <img src="https://img.shields.io/badge/GitHub-urge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 
-  <img src="https://img.shields.io/badge/📍_Zurich,_Switzerland-🇨🇭-red?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Zurich,_Switzerland_🇨🇭-red?style=for-the-badge" alt="Location"/>
 
 
 <br/><br/>
