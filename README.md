@@ -508,7 +508,7 @@ Continuous optimization and refinement mindset
 <br/>
 
 <a href="mailto:hysawork@gmail.com">
-  <img src="https://img.shields.io/badge/Email-urge.github%40gmail.com-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-hysawork%40gmail.com-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 
 <a href="https://github.com/urge">
   <img src="https://img.shields.io/badge/GitHub-urge-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
