@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://github.com/urge"><img src="https://img.shields.io/badge/GitHub-urge-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="mailto:hysawork@gmail.com"><img src="https://img.shields.io/badge/Email-urge.github%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hysawork@gmail.com"><img src="https://img.shields.io/badge/Email-hysawork%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=urge&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
   <a href="https://github.com/urge?tab=followers"><img src="https://img.shields.io/github/followers/urge?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="followers"/></a>
 </p>
